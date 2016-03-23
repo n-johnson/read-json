@@ -1,6 +1,6 @@
 {
   "name": "read-json",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Reads and parses a JSON file.",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,6 @@
   "author": "Azer Koçulu <azer@kodfabrik.com>",
   "license": "BSD",
   "dependencies": {
-    "try-call": "0.0.0"
+    "try-call": "0.0.2"
   }
 }
